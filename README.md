@@ -16,7 +16,10 @@ Denk aan toepassingen als:
 - Ontwikkel een webapplicatie 
 - Schrijf zo min mogelijk regels code zelf 
 - Gebruik een programmeertaal en framework naar keuze 
-- Genereer UI met MidJourney 
+- Genereer UI met MidJourney
+- Gebruik een IDE naar keuze
+- Bootstrappen van de applicaties (bijv. via `start.spring.io`, `ng new`, `dotnet new ...`, `npx create-react-app my-app`) hoeft niet gegenereerd te worden en telt niet mee voor zelf geschreven regels code
+- Optioneel: Deel je ChatGPT gesprek via een linkje in onze Discord
 
 ## Support 
 
