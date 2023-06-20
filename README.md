@@ -1,7 +1,7 @@
 # AI Hackathon 🧠
 Welkom op de readme van de AI hackathon! Tijdens deze hackathon gaan we een webapplicatie bouwen waarvoor we zo veel mogelijk laten genereren door AI. Het doel is zo min mogelijk code zelf schrijven. Ook de UI gaan we laten genereren door Midjourney. 
 
-Om je op weg te helpen hebben we hieronder een opdracht voorbereid. Je mag hier vanaf wijken als je zelf ook een leuk idee hebt. 
+Om je op weg te helpen hebben we hieronder een opdracht voorbereid. Je mag hier vanaf wijken als je zelf ook een leuk idee hebt.
 
 ## Opdracht 💻
 Bedenk een toepassing voor een webapplicatie die gebruik maakt van het ChatGPT taalmodel doormiddel van de OpenAI Completion API.   
@@ -19,6 +19,9 @@ Denk aan toepassingen als:
 - Gebruik een IDE naar keuze
 - Genereer de UI van de applicatie met MidJourney
 - Bootstrappen van de applicaties (bijv. via `start.spring.io`, `ng new`, `dotnet new ...`, `npx create-react-app my-app`) hoeft niet gegenereerd te worden en telt niet mee voor zelf geschreven regels code
+- Implementeer de [OpenAI API](https://platform.openai.com/docs/api-reference/completions)
+  - Zie API Key in Discord
+  - Gebruik model `gpt-3.5-turbo`
 - Optioneel: Deel je ChatGPT gesprek via een linkje in onze Discord
 
 ## Let op! ❗
