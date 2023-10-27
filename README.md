@@ -1,35 +1,35 @@
 # AI Hackathon 🧠
-Welkom op de readme van de AI hackathon! Tijdens deze hackathon gaan we een webapplicatie bouwen waarvoor we zo veel mogelijk laten genereren door AI. Het doel is zo min mogelijk code zelf schrijven. Ook de UI gaan we laten genereren door Midjourney. 
+Welcome to the README.md of the AI Hackathon! During this hackathon we will develop a webapplication for which we will have AI tooling generate most of the code. The end goal is to write as little code ourselves as possible and even try to keep refactoring to a minimum.
 
-Om je op weg te helpen hebben we hieronder een opdracht voorbereid. Je mag hier vanaf wijken als je zelf ook een leuk idee hebt.
+To get you started we have prepared an assignment for you. Of course you are free to deviate from this assignment as you which but it will give you some guardrails.
 
-## Opdracht 💻
-Bedenk een toepassing voor een webapplicatie die gebruik maakt van het ChatGPT taalmodel doormiddel van de OpenAI Completion API.   
+## Assignment 💻
+Develop a web application with a use case that utilises the ChatGPT LLM using the OpenAI Completion API.
 
-Denk aan toepassingen als:  
-- Recepten suggesties: bouw een applicatie die recepten suggereert voor de ingrediënten die je in huis hebt. 
-- Virtuele studiebegeleider: Creëer een interactieve studiebegeleider. 
-- Een anti-polarisatie tool: Geef een voor- en tegenargument voor een moeilijk vraagstuk. 
-- Een andere toepassing die je leuk vindt. 
+You can think of use cases like:
+- Recipe suggestions: build an application that will suggest cooking recipes based on the leftover groceries you have at home.
+- Virtual study counsellor: Create an interactive study counsellor.
+- Anti-polarization tool: An application that gives you a viewpoint both for and against difficult topics.
+- Any other use case that you can think of.
 
-## Spelregels 📜
-- Ontwikkel een webapplicatie 
-- Schrijf zo min mogelijk regels code zelf 
-- Gebruik een programmeertaal en framework naar keuze
-- Gebruik een IDE naar keuze
-- Genereer de UI van de applicatie met MidJourney
-- Bootstrappen van de applicaties (bijv. via `start.spring.io`, `ng new`, `dotnet new ...`, `npx create-react-app my-app`) hoeft niet gegenereerd te worden en telt niet mee voor zelf geschreven regels code
-- Implementeer de [OpenAI API](https://platform.openai.com/docs/api-reference/completions)
-  - Zie API Key in Discord
-  - Gebruik model `gpt-3.5-turbo`
-- Optioneel: Deel je ChatGPT gesprek via een linkje in onze Discord
+## Rules 📜
+- Develop a webapplication 
+- Write as little lines of code yourself as you can
+- Use the programming language and/or framework of your choice
+- Use your IDE of choice
+- Generate sprites and UI elements with Midjourney or Bing Images
+- Bootstrapping of the application (e.g. via `start.spring.io`, `ng new`, `dotnet new ...`, `npx create-react-app my-app`) doesn't need to be generated and doesn't count as lines of code written
+- Implement the [OpenAI API](https://platform.openai.com/docs/api-reference/completions)
+  - API Key in Discord
+  - Use model `gpt-3.5-turbo`
+- Optional: Share your ChatGPT conversation in our discord
 
-## Let op! ❗
-- Deel je API key niet publiekelijk
-- Let op de API usage (requests & tokens per minuut zijn gelimiteerd)
+## Beware! ❗
+- Don't leak your API key to the public.
+- Watch your API usages (requests & tokens per minute are limited)
 
 ## Support 🗣️
-Tijdens de hackathon kan je de organisatoren om hulp en of ideeën vragen voor prompts. Heb je geen toegang tot midjourney of chatGPT Model 4 dan kan je hen ook vragen een prompt voor je uit te voeren. Let op: de hoeveelheid GPT Model 4 prompts zijn beperkt. 
+During the hackathon, you can ask the organisers for help or with ideas from prompts. If you don't have access to Midjourney or GPT-4 they can help you as well.
 
 ## Resources ⛓️
 - **OpenAI API docs**: https://platform.openai.com/docs/api-reference/completions 
